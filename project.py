@@ -1,4 +1,5 @@
-## 2º trabalho da disciplina de IIA 2020/1
+## 3º projeto da disciplina de IIA 2020/1
+# Higor Gabriel Azevedo Santos - 17/0012387
 # Leonardo Rodrigues de Souza - 17/0060543
 
 import pandas as pd
